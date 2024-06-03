@@ -1,0 +1,11 @@
+---
+title: "New Generative Art"
+author: "Keaton Povinelli"
+format: html
+---
+
+```{r}
+library(tidyverse)
+library(lterdatasampler)
+```
+
